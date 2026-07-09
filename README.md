@@ -14,9 +14,6 @@
 ![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
 **Senior Data & Platform Engineer** &#12299;_working in Data, Reliability Analytics & Automation_
 <br/>
@@ -24,14 +21,8 @@
 
 ----
 
-<a href="https://twitter.com/moertel">
-  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
 <a href="https://www.instagram.com/moer.tel/">
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://linkedin.com/in/stefaniegrunwald">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://moertel.tumblr.com/">
   <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
