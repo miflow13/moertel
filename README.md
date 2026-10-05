@@ -1,34 +1,27 @@
-### Hi, I'm Stefanie! &nbsp;&nbsp;<sup>👾 &#12299;I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.</sup>
+### Hi, I'm Mika! &nbsp;&nbsp;<sup>🌸 &#12299;Building useful tools, little desktop creatures, and docs that make things click.</sup>
 
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
-![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
-![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=36465D&logoColor=AAA&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square)
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
+![gtk4](https://img.shields.io/static/v1?logo=gtk&label=&message=gtk4&color=36465D&logoColor=AAA&style=flat-square)
 
-**Senior Data & Platform Engineer** &#12299;_working in Data, Reliability Analytics & Automation_
+**Software Developer** &#12299;_building Linux desktop tools, AI agent tooling & software with real users_
 <br/>
-**Digital Artist & Creator** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
+**Technical Writer** &#12299;_developer docs & tutorials (incl. for Sinch), writing about APIs, architecture & the things I break_
 
 ----
 
-<a href="https://www.instagram.com/moer.tel/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+<a href="https://dev.to/mikachu">
+  <img align="left" alt="Mika's DEV profile" width="20px" src="https://api.iconify.design/simple-icons/devdotto.svg?color=%23495f7e" />
 </a>
-<a href="https://moertel.tumblr.com/">
-  <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
-</a>
-<a href="https://behance.net/moertel">
-  <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
+<a href="https://www.linkedin.com/in/mikaflowers13/">
+  <img align="left" alt="Mika's LinkedIn" width="20px" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Portfolio & Blog : [miflow13.github.io/my-blog](https://miflow13.github.io/my-blog) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
